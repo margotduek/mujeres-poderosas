@@ -1,0 +1,12 @@
+*{
+  background-color : red ;  
+  text-align: center ;  
+}
+
+nav{
+
+}
+
+nav ul li{
+  display: inline-block; 
+}
